@@ -2,6 +2,8 @@ require("dotenv").config();
 
 const express = require("express");
 
+/* 2NDRY MONGO_DB=mongodb://localhost:27017/Clothproducts */
+
 const app = express();
 const PORT = process.env.PORT || 5000;
 
