@@ -1,0 +1,764 @@
+[
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-1",
+    "name": "white t-shirt",
+    "price": 499,
+    "color": "white",
+    "stock": 5,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1586790170083-2f9ceadc732d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1592994238317-fcf75c5466fd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1592994202124-75c12df162cf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=367&q=80",
+      "image4": "https://images.unsplash.com/photo-1586801786874-23f163a27d2f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "bestSellers": true,
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-2",
+    "name": "black t-shirt",
+    "price": 499,
+    "color": "black",
+    "stock": 4,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1503341504253-dff4815485f1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1503341338985-c0477be52513?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image3": "https://images.unsplash.com/photo-1503341703022-e7836bfb04e6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1503341455253-b2e723bb3dbb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    "dealOfTheDay": true,
+    "reviews": 4.1,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-3",
+    "name": "white t-shirt",
+    "price": 599,
+    "color": "white",
+    "stock": 6,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1527719327859-c6ce80353573?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image2": "https://images.unsplash.com/photo-1527718641255-324f8e2d0421?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image3": "https://images.unsplash.com/photo-1525360945394-7bccf2809123?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image4": "https://images.unsplash.com/photo-1527719477130-6abb4b4d0dd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    "topMens": true,
+    "reviews": 3.3,
+    "stars": 4,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-4",
+    "name": "red t-shirt",
+    "price": 499,
+    "color": "red",
+    "stock": 3,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1527718755910-54cac9d44cc5?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image2": "https://images.unsplash.com/photo-1528440562732-4fd65468049d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image3": "https://images.unsplash.com/photo-1527719197793-6b777854108d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image4": "https://images.unsplash.com/photo-1480455624313-e29b44bbfde1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    "dealOfTheDay": true,
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-5",
+    "name": "red t-shirt",
+    "price": 599,
+    "color": "red",
+    "stock": 2,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/photo-attractive-bearded-young-man-with-cherful-expression-makes-okay-gesture-with-both-hands-likes-something-dressed-red-casual-t-shirt-poses-against-white-wall-gestures-indoor_273609-16239.jpg?w=740&t=st=1679951247~exp=1679951847~hmac=11e82b39dede5e3344322206aaefc1868006e63bbd1ca2c94d442b95f6bd5da5",
+      "image2": "https://img.freepik.com/free-photo/shot-confused-clueless-male-with-beard-mustache-points-with-index-fingers-different-directions-has-unaware-expression-surprised-look-poses-against-white-wall-gestures_273609-16308.jpg?w=740&t=st=1679951260~exp=1679951860~hmac=75bf9cd11dcd05668427e74bb914161291fc3d18b118a44b3cb608686e8c0fd1",
+      "image3": "https://img.freepik.com/free-photo/cheerful-bearded-caucasian-male-with-gentle-smile-dressed-casual-outfit-shows-you-direction-nice-place-indicates-with-thumb-aside_273609-16251.jpg?w=740&t=st=1679951270~exp=1679951870~hmac=ba758c50931d543bb11d885c67ca6e31e70298a6ad7467a5397131bcbf03553c",
+      "image4": "https://img.freepik.com/free-photo/photo-attractive-man-wears-round-spectacles-keeps-hand-wrist_273609-44100.jpg?w=740&t=st=1679951271~exp=1679951871~hmac=7ba157795bae7a618037326aacf952817312d36d226796d48e5930cfb35a0af4"
+    },
+    "reviews": 4.3,
+    "stars": 2.4,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-6",
+    "name": "black t-shirt",
+    "price": 599,
+    "color": "black",
+    "stock": 1,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1675621968831-10d5117f0ad3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1675621929929-a8a74c6b795e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1675621809834-26a74ddf0677?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1675621753795-8f5490c72c88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "topMens": true,
+    "reviews": 5,
+    "stars": 5,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-7",
+    "name": "white t-shirt",
+    "price": 599,
+    "color": "white",
+    "stock": 9,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1677430589486-4a5df1127604?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1677430589516-a92a76ae433f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1677430587681-5e8e1d101c31?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1677430589483-293c85e36733?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "reviews": 4.1,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "t-shirts",
+    "id": "t-shirt-8",
+    "name": "white t-shirt",
+    "price": 399,
+    "color": "white",
+    "stock": 10,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/portrait-excited-boy-man-holding-arms-his-head-isolated-white_231208-6046.jpg?w=740&t=st=1679953423~exp=1679954023~hmac=cade35179efd8d81bcecccfac425dc92d436983c571921a839a76920e5e0d693",
+      "image2": "https://img.freepik.com/free-photo/young-pretty-man-white-t-shirt-isolated-white-shows-ok-sign_231208-6030.jpg?w=740&t=st=1679953431~exp=1679954031~hmac=98f4e25185aa5378c214b8c95a4efb0b0df8604dae648f72f0ca99e7c0310373",
+      "image3": "https://img.freepik.com/free-photo/cute-young-man-boy-shows-victory-sign-isolated-white-wall_231208-6058.jpg?w=740&t=st=1679953456~exp=1679954056~hmac=e45aaf12f2ce3a6a1af8b8c5faad8f699f5cae00b839992a4a595e1d37d6ee1a",
+      "image4": "https://img.freepik.com/free-photo/smiley-young-man-is-wearing-white-t-shirt-taking-selfie-with-silver-smartphone_231208-6034.jpg?w=740&t=st=1679953437~exp=1679954037~hmac=d506e7a4432647f58f02fa20f3bd2b5e5881fcd5b5a71a43bbfab5512a72efc3"
+    },
+    "newArivals": true,
+    "reviews": 4.2,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-1",
+    "name": "red shirt",
+    "price": 1899,
+    "color": "red",
+    "stock": 10,
+    "images": {
+      "image1": "https://images.pexels.com/photos/769733/pexels-photo-769733.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image2": "https://images.pexels.com/photos/769729/pexels-photo-769729.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image3": "https://images.pexels.com/photos/769730/pexels-photo-769730.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image4": "https://images.pexels.com/photos/769727/pexels-photo-769727.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    "topMens": true,
+    "reviews": 4.6,
+    "stars": 3.1,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-2",
+    "name": "yellow shirt",
+    "price": 2499,
+    "color": "yellow",
+    "stock": 7,
+    "images": {
+      "image1": "https://images.pexels.com/photos/10948490/pexels-photo-10948490.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image2": "https://images.pexels.com/photos/10948497/pexels-photo-10948497.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image3": "https://images.pexels.com/photos/10948498/pexels-photo-10948498.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "image4": "https://images.pexels.com/photos/10948501/pexels-photo-10948501.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    },
+    "dealOfTheDay": true,
+    "reviews": 4.0,
+    "stars": 2.5,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-3",
+    "name": "red shirt",
+    "price": 2999,
+    "color": "red",
+    "stock": 4,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4909.jpg?w=740&t=st=1679951383~exp=1679951983~hmac=dc11441e073979d4308ddbb6618db7e740eb6693439cbceb0202ca6cf56e9a1b",
+      "image2": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4915.jpg?w=740&t=st=1679951388~exp=1679951988~hmac=a659f916f7af910442dd782537c93b30496d6f307fdd00498e066b0b89397cc6",
+      "image3": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4917.jpg?w=740&t=st=1679951398~exp=1679951998~hmac=3c1579ac6f18983bde432c898126b0cb2381491a80901febed113e142e1e0943",
+      "image4": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-red-checkered-shirt-fashion-man-posing_158538-4911.jpg?w=740&t=st=1679951394~exp=1679951994~hmac=9a83456ae3ff5b0e6785ac9807c6517f2e1440ae8740089e472ab20ee036c369"
+    },
+    "topMens": true,
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-4",
+    "name": "red shirt",
+    "price": 1999,
+    "color": "red",
+    "stock": 6,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/young-stylish-guy-posing_176420-29907.jpg?w=740&t=st=1679951683~exp=1679952283~hmac=58780bd422f55b9745d46786c45e8b8af4c3d6096f469f5a9280ab328df150e6",
+      "image2": "https://img.freepik.com/free-photo/friendly-young-guy-posing_176420-29912.jpg?w=740&t=st=1679951699~exp=1679952299~hmac=c6df0bea1daa2508ea7fadb9470dad42702cd49b1101e6332f114d792a77e578",
+      "image3": "https://img.freepik.com/free-photo/disappointed-young-guy-posing_176420-29980.jpg?w=740&t=st=1679951701~exp=1679952301~hmac=7d3d9c4c221efef3047c1d5b7fe1ec1091f1e7a5710969f300b63d8ec506bac5",
+      "image4": "https://img.freepik.com/free-photo/attractive-young-guy-posing_176420-29946.jpg?w=740&t=st=1679951704~exp=1679952304~hmac=3e957085c0a403e4a9fd274f21e1e6621e61377e3ca03c09a531b6ca00d7fef6"
+    },
+    "newArivals": true,
+    "reviews": 4.0,
+    "stars": 3.5,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-5",
+    "name": "blue shirt",
+    "price": 1999,
+    "color": "blue",
+    "stock": 7,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-blue-shirt-clothes-fashion-man-posing_158538-4976.jpg?w=740&t=st=1679951830~exp=1679952430~hmac=49369ef11c762a2749c7872165b77e59316ba45083ed4d3eea066b997219dada",
+      "image2": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-blue-shirt-clothes-fashion-man-posing_158538-4967.jpg?w=740&t=st=1679951847~exp=1679952447~hmac=66ee9bc51d7aa51d9d33d97e43f0abc3e9a084d52d42ddc565f03b58ddd6f4d2",
+      "image3": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-blue-shirt-clothes-fashion-man-posing_158538-4965.jpg?w=740&t=st=1679951849~exp=1679952449~hmac=1e6708c3696a0876fb17c130f2d504fe0d1ff7f08ab897149e0bccfca2b8ac38",
+      "image4": "https://img.freepik.com/free-photo/portrait-handsome-smiling-stylish-young-man-model-dressed-blue-shirt-clothes-fashion-man-posing_158538-4971.jpg?w=740&t=st=1679951853~exp=1679952453~hmac=dfe61239b50938491345d3c6c78b62caaf0830983d2ae754aed6c284d7a6ff0c"
+    },
+    "bestSellers": true,
+    "reviews": 3.3,
+    "stars": 3.9,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-6",
+    "name": "blue shirt",
+    "price": 1299,
+    "color": "blue",
+    "stock": 4,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/man-striped-shirt-looks-confused-thoughtful_144627-69716.jpg?w=740&t=st=1679953603~exp=1679954203~hmac=acbefde55ca15f26ffacf3a5734c7b9802f0def8142d07597f8ab9ca382b493a",
+      "image2": "https://img.freepik.com/free-photo/man-striped-shirt-holding-white-disposable-water-cup-thinking-about-how-sell-it_144627-67194.jpg?w=740&t=st=1679953626~exp=1679954226~hmac=17327f052cae8c43169960404a68c097f10b3ad83fab28067b943aa8b534f212",
+      "image3": "https://img.freepik.com/free-photo/man-striped-shirt-holding-blue-heart-shape-gift-box_144627-67292.jpg?w=740&t=st=1679953638~exp=1679954238~hmac=6ac1bb76d785aeb1d6396a72ca9694910ee115413fa457440d41d303ab76f8f6",
+      "image4": "https://img.freepik.com/free-photo/man-striped-shirt-looks-confused-thoughtful_144627-69807.jpg?w=740&t=st=1679953658~exp=1679954258~hmac=41ab9abb903d5eae05c88b43b1924ba55ef759524572f6188017a27723f988f8"
+    },
+    "dealOfTheDay": true,
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "topwear",
+    "subCategory": "shirts",
+    "id": "shirt-7",
+    "name": "blue shirt",
+    "price": 1199,
+    "color": "blue",
+    "stock": 5,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/expressive-young-guy-posing-studio_176474-98682.jpg?w=740&t=st=1679953679~exp=1679954279~hmac=22823373fe50f6b062008a154174d302e721d994c51d1af2eb3935ff1bf6bff3",
+      "image2": "https://img.freepik.com/free-photo/expressive-young-male-posing-studio_176474-98686.jpg?w=740&t=st=1679953720~exp=1679954320~hmac=436dca5ee2f9936361a4d9cb5573b3e0375c9c97e6aef246dd46e498903096b1",
+      "image3": "https://img.freepik.com/free-photo/expressive-young-guy-posing-studio_176474-98671.jpg?w=740&t=st=1679953740~exp=1679954340~hmac=432097ff9d69f4928e35f2361746f91e5823b3a28db4610e2146a62765790979",
+      "image4": "https://img.freepik.com/free-photo/expressive-young-guy-posing-studio_176474-98657.jpg?w=740&t=st=1679953729~exp=1679954329~hmac=45caf9b3335175d24c3cb4db80db334a5ac6ae63ed7307d33b9e917feae53a32"
+    },
+    "bestSellers": true,
+    "reviews": 1.3,
+    "stars": 3.1,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "bottomwear",
+    "subCategory": "jeans",
+    "id": "jeans-1",
+    "name": "blue jeans",
+    "price": 1499,
+    "color": "blue",
+    "stock": 9,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/stylish-tall-arabian-man-model-white-shirt-jeans-sunglasses-posed-street-city-beard-attractive-arab-guy_627829-2542.jpg?w=740&t=st=1679954333~exp=1679954933~hmac=35905c747812e64b9c7ac6ef723123f19da9dd708930cffa9573238e8e861ea4",
+      "image2": "https://img.freepik.com/free-photo/jeans_1203-8094.jpg?w=740&t=st=1679954288~exp=1679954888~hmac=2c05dd501598194bfcc02d03981b1b41292974bc71c5947d9beca3e135abb1b0",
+      "image3": "https://img.freepik.com/free-photo/jeans_1203-8096.jpg?w=740&t=st=1679954301~exp=1679954901~hmac=79f0ba9e8f6ee6f1f4c864cfca9991a4d203c11f7412e6b4c3747f811c24d7a5",
+      "image4": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?w=740&t=st=1679954311~exp=1679954911~hmac=9b77956f8a289722c1258488925d207deb8006c04b042f6c91c784328dab24d9"
+    },
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "bottomwear",
+    "subCategory": "jeans",
+    "id": "jeans-2",
+    "name": "blue jeans",
+    "price": 1999,
+    "color": "blue",
+    "stock": 7,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/close-up-stylish-traveler-jeans_23-2148357267.jpg?w=740&t=st=1679954471~exp=1679955071~hmac=62e46f28c1f612c54a98ec789638db6db4d1e34e2a646fd04621f22ae36ca328",
+      "image2": "https://img.freepik.com/free-photo/jeans_1203-8094.jpg?w=740&t=st=1679954288~exp=1679954888~hmac=2c05dd501598194bfcc02d03981b1b41292974bc71c5947d9beca3e135abb1b0",
+      "image3": "https://img.freepik.com/free-photo/jeans_1203-8096.jpg?w=740&t=st=1679954301~exp=1679954901~hmac=79f0ba9e8f6ee6f1f4c864cfca9991a4d203c11f7412e6b4c3747f811c24d7a5",
+      "image4": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?w=740&t=st=1679954311~exp=1679954911~hmac=9b77956f8a289722c1258488925d207deb8006c04b042f6c91c784328dab24d9"
+    },
+    "newArivals": true,
+    "reviews": 4.5,
+    "stars": 3.5,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "bottomwear",
+    "subCategory": "jeans",
+    "id": "jeans-3",
+    "name": "blue jeans",
+    "price": 1899,
+    "color": "blue",
+    "stock": 8,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/portrait-smiling-happy-man-standing-studio_155003-5983.jpg?w=360&t=st=1679954757~exp=1679955357~hmac=e7acd1dc6ffc72fc0517eb7e9968e44ba4ff0c13a13da1da59914b092f3240d9",
+      "image2": "https://img.freepik.com/free-photo/jeans_1203-8094.jpg?w=740&t=st=1679954288~exp=1679954888~hmac=2c05dd501598194bfcc02d03981b1b41292974bc71c5947d9beca3e135abb1b0",
+      "image3": "https://img.freepik.com/free-photo/jeans_1203-8096.jpg?w=740&t=st=1679954301~exp=1679954901~hmac=79f0ba9e8f6ee6f1f4c864cfca9991a4d203c11f7412e6b4c3747f811c24d7a5",
+      "image4": "https://img.freepik.com/free-photo/jeans_1203-8093.jpg?w=740&t=st=1679954311~exp=1679954911~hmac=9b77956f8a289722c1258488925d207deb8006c04b042f6c91c784328dab24d9"
+    },
+    "reviews": 4.7,
+    "stars": 3.7,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "bottomwear",
+    "subCategory": "shorts",
+    "id": "shorts-1",
+    "name": "yellow shorts",
+    "price": 999,
+    "color": "yellow",
+    "stock": 5,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/man-beach-smiling-happy-wearing-hipster-bright-outfit-young-male-model-enjoying-summer-travel-holiday-by-ocean-with-stylish-backpack_291049-1114.jpg?w=360&t=st=1679958204~exp=1679958804~hmac=bcc5e3c739fd0206d7953570cd92656c70176c6dc1b0670eb5a69c70e65f9a48",
+      "image2": "https://img.freepik.com/free-photo/outdoor-fashion-portrait-handsome-man-posing-amazing-tropical-beach-nice-sunny-day-beautiful-view-blue-sky-ocean-wearing-casual-yellow-sorts-classic-white-shirt-sunglasses_291049-1696.jpg?w=740&t=st=1679958218~exp=1679958818~hmac=9f6389d85a637e51628f134cb2b6d1ed3c9900b10b8e927eb8988bf613ad79a4",
+      "image3": "https://img.freepik.com/free-photo/fashion-outdoor-portrait-handsome-man-bright-trendy-casual-outfit-walking-tropical-beach_291049-2514.jpg?w=360&t=st=1679958225~exp=1679958825~hmac=ea33f6cda07f7bef2a25e3f73ddd0bccb361355f5d2c9bfea570d89d55538006",
+      "image4": "https://img.freepik.com/free-photo/young-male-model-enjoying-summer-holiday-by-ocean-with-stylish-backpack_291049-2516.jpg?w=360&t=st=1679958229~exp=1679958829~hmac=18563583a3525f8de874ad9b7680e83c1b7e37c579ed515a8bb3412256f112ac"
+    },
+    "topMens": true,
+    "reviews": 3.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-1",
+    "name": "blue shoes",
+    "price": 3999,
+    "color": "blue",
+    "stock": 5,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1588099768531-a72d4a198538?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1588099768523-f4e6a5679d88?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image3": "https://images.unsplash.com/photo-1588099768550-4014589e03e0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1618677831708-0e7fda3148b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "dealOfTheDay": true,
+    "reviews": 2.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-2",
+    "name": "white shoes",
+    "price": 2999,
+    "color": "white",
+    "stock": 6,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1636718282214-0b4162a154f0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image2": "https://images.unsplash.com/photo-1636718281370-b5e3f51a5af2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1636718281461-d6570e49c4b4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1636718284444-ae1520f1b80e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "bestSellers": true,
+    "reviews": 4.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-3",
+    "name": "red shoes",
+    "price": 4999,
+    "color": "red",
+    "stock": 3,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1609535765688-c2114a1f0e50?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80",
+      "image2": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image3": "https://images.unsplash.com/photo-1521093470119-a3acdc43374a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1609535766154-e47e5aa87789?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "reviews": 2.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-4",
+    "name": "white shoes",
+    "price": 5999,
+    "color": "white",
+    "stock": 2,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1617143207675-e7e6371f5f5d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image2": "https://images.unsplash.com/photo-1608319294852-d87737e8e46c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1608319331919-6c7cb6e34b7a?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1608319318013-290bac041539?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "newArivals": true,
+    "reviews": 2.3,
+    "stars": 3.9,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-5",
+    "name": "white shoes",
+    "price": 2899,
+    "color": "white",
+    "stock": 6,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1597350584914-55bb62285896?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image2": "https://images.unsplash.com/photo-1600269452121-4f2416e55c28?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image3": "https://images.unsplash.com/photo-1626379616459-b2ce1d9decbc?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1585591359088-e144e8a61170?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "reviews": 1.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "casual-shoes",
+    "id": "casual-shoes-6",
+    "name": "orange shoes",
+    "price": 2799,
+    "color": "orange",
+    "stock": 5,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1600185365926-3a2ce3cdb9eb?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "image2": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "image3": "https://images.unsplash.com/photo-1600185365778-7875a359b924?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80",
+      "image4": "https://images.unsplash.com/photo-1600185652960-c9d8869d015c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    "reviews": 2.3,
+    "stars": 2.0,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "formal-shoes",
+    "id": "formal-shoes-1",
+    "name": "brown shoes",
+    "price": 2599,
+    "color": "brown",
+    "stock": 15,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1563434564528-8fdf5996e622?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image2": "ttps://images.unsplash.com/photo-1563434049350-09568e40b8b1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image3": "https://images.unsplash.com/photo-1563434341775-16ed49061fd3?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image4": "https://images.unsplash.com/photo-1563434649554-58f91d22ec2c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=879&q=80"
+    },
+    "newArivals": true,
+    "reviews": 2.7,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "footwear",
+    "subCategory": "formal-shoes",
+    "id": "formal-shoes-2",
+    "name": "brown shoes",
+    "price": 2399,
+    "color": "brown",
+    "stock": 10,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1472591651607-70e2d88ae3c4?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=761&q=80",
+      "image2": "https://images.unsplash.com/photo-1575932150875-d31ebc835f67?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image3": "https://images.unsplash.com/photo-1544880665-a2caf58243bf?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image4": "https://images.unsplash.com/photo-1541346160430-93fcee38d521?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80"
+    },
+    "reviews": 2.6,
+    "stars": 3.0,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweatshirt",
+    "id": "sweatshirt-1",
+    "name": "yellow sweatshirt",
+    "price": 1999,
+    "color": "yellow",
+    "stock": 8,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/young-attractive-handsome-guy-feels-delighted-gladden-amazed_295783-535.jpg?w=740&t=st=1679958402~exp=1679959002~hmac=0cb1fd33de759b0f205513a717e4b3cbc8999d5f22a688968c9eefbca957bfaa",
+      "image2": "https://img.freepik.com/free-photo/man-celebrates-winning-his-favorite-football-team_295783-537.jpg?w=740&t=st=1679958413~exp=1679959013~hmac=70cbbd9a83009aed358cf6fdf08f06905979471a3fad2ee466dafea318f1abb8",
+      "image3": "https://img.freepik.com/free-photo/man-stands-stooping-his-head-is-pressed-into-his-shoulders_295783-538.jpg?w=740&t=st=1679958434~exp=1679959034~hmac=bc252a200237fb6d73b0a94e8a65f7f16f99fff20962c966e8971ced69a9670d",
+      "image4": "https://img.freepik.com/free-photo/young-attractive-handsome-guy-feels-delighted-gladden-amazed_295783-535.jpg?w=740&t=st=1679958402~exp=1679959002~hmac=0cb1fd33de759b0f205513a717e4b3cbc8999d5f22a688968c9eefbca957bfaa"
+    },
+    "reviews": 2.3,
+    "stars": 3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweatshirt",
+    "id": "sweatshirt-2",
+    "name": "red sweatshirt",
+    "price": 999,
+    "color": "red",
+    "stock": 5,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/happy-handsome-brutal-bearder-man-wearing-warm-red-winter-trendy-fleece-hoodie_343596-2697.jpg?w=740&t=st=1679958702~exp=1679959302~hmac=4e816cd80622e5ab6e1819b3cc80d40d89de6dacbcaaf9f078b77862bf35d37d",
+      "image2": "https://img.freepik.com/free-photo/happy-handsome-brutal-bearder-man-wearing-warm-red-winter-trendy-fleece-hoodie_343596-2699.jpg?w=740&t=st=1679958714~exp=1679959314~hmac=8c5a57ae6f62c333e2187881956b7a82c3b004afceb77176881b8776b9280ee4",
+      "image3": "https://img.freepik.com/free-photo/happy-handsome-brutal-bearder-man-wearing-warm-red-winter-trendy-fleece-hoodie_343596-2705.jpg?w=740&t=st=1679958722~exp=1679959322~hmac=e532bf83ffa12b28d2f5ec68b564120c0493cdab750228f56f590b09636a0e95",
+      "image4": "https://img.freepik.com/free-photo/happy-handsome-brutal-bearder-man-wearing-warm-red-winter-trendy-fleece-hoodie_343596-2703.jpg?w=740&t=st=1679958731~exp=1679959331~hmac=18af75501ab9c5895eaff9b9d8ac17771fd9da1f58dda018f0f99da91249d680"
+    },
+    "reviews": 1.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweatshirt",
+    "id": "sweatshirt-3",
+    "name": "black sweatshirt",
+    "price": 1499,
+    "color": "black",
+    "stock": 3,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1594587002961-1a75dfaf34b8?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image2": "https://images.unsplash.com/photo-1605979021029-59f394c7178e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image3": "https://images.unsplash.com/photo-1605978921379-c8eb659497de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80",
+      "image4": "https://images.unsplash.com/photo-1594587002995-5e12e81fd595?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80"
+    },
+    "reviews": 1.3,
+    "stars": 3.0,
+    "newArivals": true,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweatshirt",
+    "id": "sweatshirt-4",
+    "name": "red sweatshirt",
+    "price": 999,
+    "color": "red",
+    "stock": 2,
+    "images": {
+      "image1": "https://plus.unsplash.com/premium_photo-1663036372225-8e78cbcecef0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=901&q=80",
+      "image2": "https://plus.unsplash.com/premium_photo-1663036389485-036e928f2c9d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=972&q=80",
+      "image3": "https://plus.unsplash.com/premium_photo-1663036398003-2934e7806a73?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image4": "https://plus.unsplash.com/premium_photo-1663036693332-c77a645aa870?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=920&q=80"
+    },
+    "reviews": 2.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweater",
+    "id": "sweater-1",
+    "name": "green sweater",
+    "price": 999,
+    "color": "green",
+    "stock": 12,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1610901157620-340856d0a50f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image2": "https://images.unsplash.com/photo-1610901157827-61ca9b02ca1b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image3": "https://images.unsplash.com/photo-1610901157889-bc2918489e52?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image4": "https://images.unsplash.com/photo-1610901157849-a49c451da16b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=725&q=80"
+    },
+    "reviews": 1.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "sweater",
+    "id": "sweater-2",
+    "name": "white sweater",
+    "price": 999,
+    "color": "white",
+    "stock": 10,
+    "images": {
+      "image1": "https://plus.unsplash.com/premium_photo-1669688173775-2a46bc86c476?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image2": "https://plus.unsplash.com/premium_photo-1669688173667-071a656f1691?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80",
+      "image3": "https://plus.unsplash.com/premium_photo-1669688173849-dea83ce86284?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=465&q=80",
+      "image4": "https://plus.unsplash.com/premium_photo-1669688174106-05f7334f1e64?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=464&q=80"
+    },
+    "newArivals": true,
+    "reviews": 3.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "jackets",
+    "id": "jacket-1",
+    "name": "black jacket",
+    "price": 3999,
+    "color": "black",
+    "stock": 4,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/confident-serious-handsome-man-wears-black-leather-jacket-gray-t-shirt-stylish-eyewear-looks-directly-into-camera-isolated-people-style-concept_176420-13362.jpg?w=740&t=st=1679960020~exp=1679960620~hmac=5f04dff59c9cd1756df6cb456430ab7c2d59417762c6510e889ced748c2233c0",
+      "image2": "https://img.freepik.com/free-photo/confident-good-looking-guy-black-leather-jacket-with-sunglasses-indicates-with-fore-finger-copy-space-advertisment-promotional-text-handsome-stylish-male-points-into-distance_176420-13367.jpg?w=740&t=st=1679960028~exp=1679960628~hmac=12fe72ce390885aa55b602bf279a0faa3b3def93adc3d8248dedb549bafc8031",
+      "image3": "https://img.freepik.com/free-photo/caucasian-male-with-appeal-look-smiling-broadly-with-white-even-teeth-posing-indoors-stylish-handsome-attractive-man-with-trendy-haircut-dressed-black-leather-jacket-with-sunglasses_176420-13365.jpg?w=740&t=st=1679960061~exp=1679960661~hmac=87c6491c1124bcb28541b2b1644d36ef7945802955bdb46b2d8c80d8047c43e8",
+      "image4": "https://img.freepik.com/free-photo/handsome-confident-good-looking-male-model-dressed-trendy-black-leather-jacket-gray-t-shirt-looking-with-his-blue-appealing-eyes-posing_176420-13374.jpg?w=740&t=st=1679960030~exp=1679960630~hmac=3b5e3080c391b74b2bb9c07709d557fa845eb8076907ca38318af268a087093a"
+    },
+    "reviews": 1.3,
+    "stars": 3.3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "jackets",
+    "id": "jacket-2",
+    "name": "black jacket",
+    "price": 3999,
+    "color": "black",
+    "stock": 3,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/handsome-bearded-man-expressing-confidence-touching-his-leather-jacket-looking-self-assured_1258-26696.jpg?w=740&t=st=1679960235~exp=1679960835~hmac=1cdd1336ee727f722b16b2fa5ecf171dd2803f3f2d8793f3d05a7013c08a5c67",
+      "image2": "https://img.freepik.com/free-photo/confused-bearded-guy-cool-leather-jacket-shrugging-scratch-head-puzzled-clueless-standing_1258-26683.jpg?w=740&t=st=1679960261~exp=1679960861~hmac=8209c3beab2c2f8889b97f4175574422ec4fc0f9182125497d1dc3b3d5ace582",
+      "image3": "https://img.freepik.com/free-photo/confident-man-black-leather-jacket-pointing-fingers-left-promo-offer-showing-logo_1258-26695.jpg?w=740&t=st=1679960270~exp=1679960870~hmac=6ba0718fc71cad4210e3895178af600cbd69b938dd5e111e88c5757d8d2ff563",
+      "image4": "https://img.freepik.com/free-photo/cool-adult-man-black-leather-jacket-showing-rock-gesture-tongue-enjoying-music-festival-standing_1258-26686.jpg?w=740&t=st=1679960247~exp=1679960847~hmac=1936aed7fdb79b34cb8ef75c75cba5738d551813bbc2f75ab422a977af13ca95"
+    },
+    "newArivals": true,
+    "reviews": 2.3,
+    "stars": 3.3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "jackets",
+    "id": "jacket-3",
+    "name": "black jacket",
+    "price": 2999,
+    "color": "black",
+    "stock": 5,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/portrait-smiling-young-man-talking-mobile-phone-holding-takeaway-coffee_23-2148096429.jpg?w=740&t=st=1679960447~exp=1679961047~hmac=f6c889098ae00f4aaefe4f83c29147933c9b485c4130e084aab2d97340ca8543",
+      "image2": "https://img.freepik.com/free-photo/young-man-looking-mobile-phone-holding-disposable-coffee-cup-hand_23-2148096430.jpg?w=740&t=st=1679960413~exp=1679961013~hmac=ba7a3dda9425b6d9feff84861cff20628f047903d065ee81cf059a4a1a784f60",
+      "image3": "https://img.freepik.com/free-photo/handsome-young-man-standing-skateboard-mobile-phone-holding-takeaway-coffee-cup_23-2148096432.jpg?w=740&t=st=1679960430~exp=1679961030~hmac=440e8bcaac0341e9a418577c32a5d9c4d1a51a0f1ff2404dd1f451837f9378c7",
+      "image4": "https://img.freepik.com/free-photo/portrait-attractive-young-man-with-eyeglasses-talking-mobile-phone-against-grey-backdrop_23-2148096437.jpg?w=360&t=st=1679960415~exp=1679961015~hmac=50fbea07cc4c48734735bab992fa1e3a9b3ab7022253f02a408cabd78f5b9dff"
+    },
+    "reviews": 4.3,
+    "stars": 3.1,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "winterwear",
+    "subCategory": "jackets",
+    "id": "jacket-4",
+    "name": "yellow jacket",
+    "price": 2999,
+    "color": "yellow",
+    "stock": 2,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/african-american-student-walking-street-talking-phone_1303-12696.jpg?w=740&t=st=1679960563~exp=1679961163~hmac=b1707eb24652dc0bc6d0dc572602eb3588eadcbd4ccc85a6e32f9798b4ba8c29",
+      "image2": "https://img.freepik.com/free-photo/african-american-student-walking-street_1303-12693.jpg?w=740&t=st=1679960603~exp=1679961203~hmac=c63bbce28bd19a94d1ccf4f1948ce391209be0b73ef0d0afe902f3b1a007ef3e",
+      "image3": "https://img.freepik.com/free-photo/african-american-student-walking-park_1303-12716.jpg?t=st=1679960603~exp=1679961203~hmac=6c22c4b04decde9a943f4ca5657480f250e46b80ccbf345405523e0ba1dd6a0d",
+      "image4": "https://img.freepik.com/free-photo/african-american-student-walking-street_1303-12692.jpg"
+    },
+    "reviews": 5.0,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "accesories",
+    "subCategory": "watches",
+    "id": "watch-1",
+    "name": "brown watch",
+    "price": 4999,
+    "color": "brown",
+    "stock": 6,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1524805444758-089113d48a6d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=388&q=80",
+      "image2": "https://images.unsplash.com/photo-1539874754764-5a96559165b0?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=930&q=80",
+      "image3": "https://images.unsplash.com/photo-1481699143886-e4c9924af63d?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=939&q=80",
+      "image4": "https://images.unsplash.com/photo-1542496658-e33a6d0d50f6?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80"
+    },
+    "newArivals": true,
+    "reviews": 3.3,
+    "stars": 3.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "accesories",
+    "subCategory": "watches",
+    "id": "watch-2",
+    "name": "white watch",
+    "price": 3999,
+    "color": "white",
+    "stock": 8,
+    "images": {
+      "image1": "https://images.unsplash.com/photo-1524592094714-0f0654e20314?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=799&q=80",
+      "image2": "https://images.unsplash.com/photo-1597235850221-61f9fd78424e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=940&q=80",
+      "image3": "https://images.unsplash.com/photo-1610648091114-8e3c8a561774?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=870&q=80",
+      "image4": "https://images.unsplash.com/photo-1506193095-80bc749473f2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=435&q=80"
+    },
+    "reviews": 4.3,
+    "stars": 2.3,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "accesories",
+    "subCategory": "glasses",
+    "id": "glasses-1",
+    "name": "black glasses",
+    "price": 999,
+    "color": "black",
+    "stock": 8,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/eyeglasses-wear_1203-2605.jpg?w=740&t=st=1679961407~exp=1679962007~hmac=f7d3be5f1c31064912d888fc2ed63d8b6ddf11c31141ee074bc0ddcd6a499634",
+      "image2": "https://img.freepik.com/free-photo/eyeglasses-wear_74190-2480.jpg?w=740&t=st=1679961416~exp=1679962016~hmac=c3d9482cec300bc46af08fc0b3e648f965c563bfd90c786a669e5ae77fd2e68b",
+      "image3": "https://img.freepik.com/free-photo/eyeglasses-wear_1203-2604.jpg?w=740&t=st=1679961393~exp=1679961993~hmac=ef2a5590f66338aa24be820ae6918157a8ae26f88f993d0b8a434478df484d08",
+      "image4": "https://img.freepik.com/free-photo/eyeglasses-wear_74190-2481.jpg?w=740&t=st=1679961457~exp=1679962057~hmac=d7ff66511c8f02a00289f2cab25fa1b9c682c28a209f034a44e07ee611925abe"
+    },
+    "newArivals": true,
+    "reviews": 4.1,
+    "stars": 3.4,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  },
+  {
+    "category": "accesories",
+    "subCategory": "glasses",
+    "id": "glasses-2",
+    "name": "black glasses",
+    "price": 1199,
+    "color": "black",
+    "stock": 5,
+    "images": {
+      "image1": "https://img.freepik.com/free-photo/sunglasses_1203-7886.jpg?w=740&t=st=1679961516~exp=1679962116~hmac=3ce1f5b26e7f8e9cce21acfa7772e5bef16c09539a788a4c81399b0308b5b48b",
+      "image2": "https://img.freepik.com/free-photo/sunglasses_1203-7884.jpg?w=740&t=st=1679961525~exp=1679962125~hmac=173c9aa8029ed4da1805221b95c67722d5c9dcf4b44135b4155b763108749873",
+      "image3": "https://img.freepik.com/free-photo/sunglasses_1203-7885.jpg?w=740&t=st=1679961545~exp=1679962145~hmac=b92aeda97f3718940ff6c260ca17253ce42d3da32893394865ca5bcc6c6d33f7",
+      "image4": "https://img.freepik.com/free-photo/sunglasses_1203-7887.jpg?w=740&t=st=1679961514~exp=1679962114~hmac=bc947de7a79229a9314dec87740f675202f72747c825228a0a374eaf4d78efa7"
+    },
+    "reviews": 4.3,
+    "stars": 2.2,
+    "description": "Clothing (also known as clothes, garments, dress, apparel, or attire) is any item worn on the body. Typically, clothing is made of fabrics or textiles, but over time it has included garments made from animal skin and other thin sheets of materials and natural products found in the environment, put together."
+  }
+]
